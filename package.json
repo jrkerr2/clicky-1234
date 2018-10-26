@@ -1,6 +1,6 @@
 {
   "name": "clicky-1234",
-  "version": "0.1.0",
+  "version": "0.2.2.1.3",
   "private": true,
   "dependencies": {
     "react": "^16.6.0",
